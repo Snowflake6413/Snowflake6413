@@ -2,7 +2,7 @@
 my name is alexander and im a proud 15 year old and a PROUD hack clubber i like to make bots in python!
 i like android very much. if you see me in the slack, dont be afraid to say hi or dm me! i ~~will~~ dont bite :3
 
-also visit my [personal website](https://areallyawesomeusername.me)
+also visit my [personal website](https://yaoi.tech)
 
 #### things i learned
 
