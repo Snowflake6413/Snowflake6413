@@ -1,8 +1,10 @@
 # hello :trollface:
-my name is alexander and im a proud 15 year old and a PROUD hack clubber i like to make bots in python!
-i like android very much. if you see me in the slack, dont be afraid to say hi or dm me! i ~~will~~ dont bite :3
+my name is alexander and im a proud 16 year old and a PROUD hack clubber. i like to make bots in python!
+i like android very much. if you see me in the hack club slack (alex, the one with the purple kitty profile pic), dont be afraid to say hi or dm me! i ~~will~~ dont bite :3
 
-also visit my [personal website](https://yaoi.tech)
+i am also a shipwright!
+
+also visit my [personal website](https://alexanderisashy.one)
 
 #### things i learned
 
